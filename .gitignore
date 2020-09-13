@@ -1,6 +1,3 @@
-# config file with private token 
-#config.json
-
 # Dependency directories
 node_modules/*
 
