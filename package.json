@@ -1,0 +1,38 @@
+{
+  "name": "pod-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for collaborative podcast listening and playback",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfthai/pod-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "podcast",
+    "listening",
+    "spotify",
+    "playback",
+    "music"
+  ],
+  "author": "Jennifer Thai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfthai/pod-bot/issues"
+  },
+  "homepage": "https://github.com/jfthai/pod-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "eslint": "7.9.0",
+    "eslint-plugin-jsdoc": "30.4.2",
+    "jsdoc": "3.6.5"
+  }
+}

@@ -1,0 +1,15 @@
+# config file with private token 
+#config.json
+
+# Dependency directories
+node_modules/*
+
+# Output of 'npm pack'
+*.tgz
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Logs
+logs
+*.log
